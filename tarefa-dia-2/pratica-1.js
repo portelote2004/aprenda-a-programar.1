@@ -1,6 +1,6 @@
 
-let name = 1
-let email = 1
-let proffisao = 1
-let idade = 17
-let lugar = 1 
+let name = String
+let email = String
+let proffisao = String
+let idade = Number
+let lugar = String
